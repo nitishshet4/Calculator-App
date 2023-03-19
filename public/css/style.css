@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("https://github.com/nitishshet4/Calculator-App/blob/master/public/img/modern-background-with-lines.jpg");
+  background-image: url("modern-background-with-lines.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
